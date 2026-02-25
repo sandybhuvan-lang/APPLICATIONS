@@ -1,0 +1,132 @@
+<html>
+<head>
+<style>
+body
+{
+background:gray;
+font-size:30px;
+text-align:center;
+color:black;
+border:5px dashed black;
+width1200px;
+height:900px;
+}
+button
+{
+background:black;
+color:f2f2f2;
+font-size:20px;
+border: 2px dotted white;
+}
+.box
+{
+background:blue;
+font-size:25px;
+text-align:center:
+height:500px;
+width:700px;
+border: 10px solid black;
+}
+</style>
+</head>
+<body>
+<em> WELCOME </em>
+<br> <br>
+
+<h1 class="box"> 
+<em> SELECT YOUR RANDOM APPLICATION </em>
+<br> <br>
+<button onclick="youtube()"> YOU TUBE </button>
+<button onclick="insta()"> INSTAGRAM </button> <br> <br>
+<button onclick="facebook()"> FACEBOOKE </button>
+<button onclick="google()"> GOOGLE </button> <br> <br>
+<button onclick="meesho()"> MEESHO </button>
+<button onclick="spotify()"> SPOYIFY </button> <br> <br>
+<button onclick="browser()"> BROWSER </button>
+<button onclick="chatgpt()"> CHATGPT </button> <br> <br>
+<button onclick="weather()"> WEATHER </button>
+<button onclick="myntra()"> MYNTRA </button> <br> <br>
+<button onclick="gmail()"> GMAIL </button>
+<button onclick="chorme()"> CHORME </button> <br> <br>
+<button onclick="amazon()"> AMAZON >
+<button onclick="maps()"> MAPS </button> <br> <br>
+<button onclick="calendar()"> CALENDAR </button>
+<button onclick="gemini()"> GEMINI </button> <br> <br>
+<button onclick="telegram()"> TELEGRAM </button>
+<button onclick="zamota()"> ZOMATO </button>
+<script>
+function youtube()
+{
+window.open("https://www.youtube.com");
+}
+function insta()
+{
+window.open("https://www.instagram.com");
+}
+function facebook()
+{
+window.open("https://www.facebook.com");
+}
+function google()
+{
+window.open("https://www.google.com");
+}
+function meesho()
+{
+window.open("https://www.meesho.com");
+}
+function spotify()
+{
+window.open("https://www.spotify.com");
+}
+function browser()
+{
+window.open("https://www.browser.com");
+}
+function chatgpt()
+{
+window.open("https://www.chatgpt.com");
+}
+function weather()
+{
+window.open("https://www.weather.com");
+}
+function myntra()
+{
+window.open("https://www.myntra.com");
+}
+function gmail()
+{
+window.open("https://www.gmail.com");
+}
+function chorme()
+{
+window.open("https://www.chorme.com");
+}
+function amazon()
+{
+window.open("https://www.amazon.com");
+}
+function maps()
+{
+window.open("https://www.maps.com");
+}
+function calendar()
+{
+window.open("https://www.calendar.com");
+}
+function gemini()
+{
+window.open("https://www.gemini.com");
+}
+function telegram()
+{
+window.open("https://www.telegram.com");
+}
+function zomato()
+{
+window.open("https://www.zomato.com");
+}
+</script>
+</body>
+</html>
